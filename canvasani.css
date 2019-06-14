@@ -1,0 +1,15 @@
+body{
+	background: AliceBlue;
+	font-family: Calibri, sans-serif;
+	
+	
+	text-align: center;
+ 
+  	font-size:20px;
+}
+
+
+
+canvas {
+  border: 1px solid black;
+}
